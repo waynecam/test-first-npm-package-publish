@@ -1,0 +1,23 @@
+{
+  "name": "test-first-npm-package-publish",
+  "version": "1.0.0",
+  "description": "test npm package creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynecam/test-first-npm-package-publish.git"
+  },
+  "keywords": [
+    "test",
+    "npm-package"
+  ],
+  "author": "wayne campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waynecam/test-first-npm-package-publish/issues"
+  },
+  "homepage": "https://github.com/waynecam/test-first-npm-package-publish#readme"
+}
